@@ -1,0 +1,19 @@
+
+ASSIGN B1
+
+Study of any network simulation tools - To create a network with three nodes and establish a
+TCP connection between node 0 and node 1 such that node 0 will send TCP packet to node 2
+via node 1
+ 
+ 
+ ASSIGN B2
+ 
+ Use network simulator NS2 to implement:
+
+a. Monitoring traffic for the given topology
+
+b. Analysis of CSMA and Ethernet protocols
+
+c. Network Routing: Shortest path routing, AODV.
+
+d. Analysis of congestion control (TCP and UDP).
